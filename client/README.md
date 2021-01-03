@@ -1,0 +1,1 @@
+The client-side application was written in MIT App Inventor. I have linked the project file in this directory. Find the built APK in the Releases section.

@@ -1,0 +1,27 @@
+{
+ "buildings": {
+  "example": {
+   "owner": "jmkdev",
+   "rooms": [
+    {
+     "name": "Bedroom",
+     "people": []
+    },
+    {
+     "name": "Computer Desk",
+     "people": []
+    },
+    {
+     "name": "Hallway",
+     "people": []
+    }
+   ]
+  }
+ },
+ "userRooms": {
+  "PUT_USERNAME": {
+   "building": false,
+   "room": false
+  }
+ }
+}
