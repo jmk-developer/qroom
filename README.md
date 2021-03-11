@@ -1,5 +1,7 @@
-# QRoom
-I'll put more here soon!
+# QRoom v1
+
+### Disclaimer
+This version of QRoom is insecure and awful and should not be used. Feel free to poke around in the code and see the mistakes I made while creating it.
 
 ### Creating QRoom Data
 QRoom data, which is stored on a QR code, should look something like this:
